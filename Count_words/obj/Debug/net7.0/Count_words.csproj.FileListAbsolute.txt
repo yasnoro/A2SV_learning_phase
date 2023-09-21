@@ -1,0 +1,15 @@
+C:\Users\Yasin Ahmed\Desktop\A2SV_learning_phase\A2SV_learning_phase\Count_words\bin\Debug\net7.0\Count_words.exe
+C:\Users\Yasin Ahmed\Desktop\A2SV_learning_phase\A2SV_learning_phase\Count_words\bin\Debug\net7.0\Count_words.deps.json
+C:\Users\Yasin Ahmed\Desktop\A2SV_learning_phase\A2SV_learning_phase\Count_words\bin\Debug\net7.0\Count_words.runtimeconfig.json
+C:\Users\Yasin Ahmed\Desktop\A2SV_learning_phase\A2SV_learning_phase\Count_words\bin\Debug\net7.0\Count_words.dll
+C:\Users\Yasin Ahmed\Desktop\A2SV_learning_phase\A2SV_learning_phase\Count_words\bin\Debug\net7.0\Count_words.pdb
+C:\Users\Yasin Ahmed\Desktop\A2SV_learning_phase\A2SV_learning_phase\Count_words\obj\Debug\net7.0\Count_words.csproj.AssemblyReference.cache
+C:\Users\Yasin Ahmed\Desktop\A2SV_learning_phase\A2SV_learning_phase\Count_words\obj\Debug\net7.0\Count_words.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yasin Ahmed\Desktop\A2SV_learning_phase\A2SV_learning_phase\Count_words\obj\Debug\net7.0\Count_words.AssemblyInfoInputs.cache
+C:\Users\Yasin Ahmed\Desktop\A2SV_learning_phase\A2SV_learning_phase\Count_words\obj\Debug\net7.0\Count_words.AssemblyInfo.cs
+C:\Users\Yasin Ahmed\Desktop\A2SV_learning_phase\A2SV_learning_phase\Count_words\obj\Debug\net7.0\Count_words.csproj.CoreCompileInputs.cache
+C:\Users\Yasin Ahmed\Desktop\A2SV_learning_phase\A2SV_learning_phase\Count_words\obj\Debug\net7.0\Count_words.dll
+C:\Users\Yasin Ahmed\Desktop\A2SV_learning_phase\A2SV_learning_phase\Count_words\obj\Debug\net7.0\refint\Count_words.dll
+C:\Users\Yasin Ahmed\Desktop\A2SV_learning_phase\A2SV_learning_phase\Count_words\obj\Debug\net7.0\Count_words.pdb
+C:\Users\Yasin Ahmed\Desktop\A2SV_learning_phase\A2SV_learning_phase\Count_words\obj\Debug\net7.0\Count_words.genruntimeconfig.cache
+C:\Users\Yasin Ahmed\Desktop\A2SV_learning_phase\A2SV_learning_phase\Count_words\obj\Debug\net7.0\ref\Count_words.dll
