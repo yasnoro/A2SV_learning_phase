@@ -1,0 +1,15 @@
+C:\Users\Yasin Ahmed\Desktop\A2SV_learning_phase\A2SV_learning_phase\lib_catalog\bin\Debug\net7.0\lib_catalog.exe
+C:\Users\Yasin Ahmed\Desktop\A2SV_learning_phase\A2SV_learning_phase\lib_catalog\bin\Debug\net7.0\lib_catalog.deps.json
+C:\Users\Yasin Ahmed\Desktop\A2SV_learning_phase\A2SV_learning_phase\lib_catalog\bin\Debug\net7.0\lib_catalog.runtimeconfig.json
+C:\Users\Yasin Ahmed\Desktop\A2SV_learning_phase\A2SV_learning_phase\lib_catalog\bin\Debug\net7.0\lib_catalog.dll
+C:\Users\Yasin Ahmed\Desktop\A2SV_learning_phase\A2SV_learning_phase\lib_catalog\bin\Debug\net7.0\lib_catalog.pdb
+C:\Users\Yasin Ahmed\Desktop\A2SV_learning_phase\A2SV_learning_phase\lib_catalog\obj\Debug\net7.0\lib_catalog.csproj.AssemblyReference.cache
+C:\Users\Yasin Ahmed\Desktop\A2SV_learning_phase\A2SV_learning_phase\lib_catalog\obj\Debug\net7.0\lib_catalog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yasin Ahmed\Desktop\A2SV_learning_phase\A2SV_learning_phase\lib_catalog\obj\Debug\net7.0\lib_catalog.AssemblyInfoInputs.cache
+C:\Users\Yasin Ahmed\Desktop\A2SV_learning_phase\A2SV_learning_phase\lib_catalog\obj\Debug\net7.0\lib_catalog.AssemblyInfo.cs
+C:\Users\Yasin Ahmed\Desktop\A2SV_learning_phase\A2SV_learning_phase\lib_catalog\obj\Debug\net7.0\lib_catalog.csproj.CoreCompileInputs.cache
+C:\Users\Yasin Ahmed\Desktop\A2SV_learning_phase\A2SV_learning_phase\lib_catalog\obj\Debug\net7.0\lib_catalog.dll
+C:\Users\Yasin Ahmed\Desktop\A2SV_learning_phase\A2SV_learning_phase\lib_catalog\obj\Debug\net7.0\refint\lib_catalog.dll
+C:\Users\Yasin Ahmed\Desktop\A2SV_learning_phase\A2SV_learning_phase\lib_catalog\obj\Debug\net7.0\lib_catalog.pdb
+C:\Users\Yasin Ahmed\Desktop\A2SV_learning_phase\A2SV_learning_phase\lib_catalog\obj\Debug\net7.0\lib_catalog.genruntimeconfig.cache
+C:\Users\Yasin Ahmed\Desktop\A2SV_learning_phase\A2SV_learning_phase\lib_catalog\obj\Debug\net7.0\ref\lib_catalog.dll
